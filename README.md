@@ -9,7 +9,7 @@ Kodları, grafikleri ve analiz adımlarını interaktif olarak görüntülemek i
 
 
 
-Projeyi nbviewer üzerinden görüntüle(https://nbviewer.org/github/sametcsk/telco-churn-prediction/blob/main/churn.ipynb)
+Projeyi [nbviewer üzerinden görüntüleyin](https://nbviewer.org/github/sametcsk/telco-churn-prediction/blob/main/telco-churn-analysis.ipynb).
 
 ## Proje Hedefleri
 - Müşteri terkine yol açan temel faktörleri (fiyatlandırma, kontrat türü, teknik altyapı vb.) belirlemek.
